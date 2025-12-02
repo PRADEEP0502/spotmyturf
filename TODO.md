@@ -1,0 +1,4 @@
+- [x] Add JPA imports to User.java
+- [x] Add JpaRepository and User imports to UserRepository.java
+- [x] Add UserRequest and User imports to UserService.java
+- [x] Add UserService, UserRepository, UserRequest, and User imports to UserServiceImpl.java
